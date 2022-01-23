@@ -10,3 +10,7 @@ Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales
 Realizado por Christian García
 
 Fecha. 22.01.2022
+
+Curso profesional de git y github
+
+Dictado por Freddy Vega
